@@ -1,7 +1,6 @@
 function file_contents = readFile(filename)
-%READFILE reads a file and returns its entire contents 
-%   file_contents = READFILE(filename) reads a file and returns its entire
-%   contents in file_contents
+%READFILE reads a file and returns its entire contents  to file_contenst
+%  
 %
 
 % Load File
